@@ -1,67 +1,77 @@
-Google Homepage Clone
+# Google Homepage Clone
 
-This project is a simple clone of the Google homepage, created using HTML and CSS. It mimics the layout, appearance, and basic interactions of Google's search page for educational and demonstration purposes.
+This project is a **simple clone of the Google homepage**, created using HTML and CSS. It mimics the layout, appearance, and basic interactions of Google's search page for educational and demonstration purposes.
 
-📁 Files Included
+---
 
-index.html: Main HTML file that structures the page
+## 📁 Files Included
 
-styles.css: External CSS file that styles the layout and elements
+* `index.html`: Main HTML file that structures the page
+* `styles.css`: External CSS file that styles the layout and elements
 
-🎨 Features Implemented
+---
 
-Header
+## 🎨 Features Implemented
 
-Navigation links: About, Store, Gmail, Images
+### Header
 
-Icons using Font Awesome
+* Navigation links: About, Store, Gmail, Images
+* Icons using Font Awesome
+* Profile picture button
 
-Profile picture button
+### Main Section
 
-Main Section
+* Large "Google" title using `.title-text`
+* Search bar with search, microphone, and camera icons
+* "Google Search" and "I'm Feeling Lucky" buttons
+* Language selection links
 
-Large "Google" title using .title-text
+### Footer
 
-Search bar with search, microphone, and camera icons
+* Country information (e.g., France)
+* Links for Advertising, Business, Privacy, Terms, and Settings
+* Responsive layout using media queries
 
-"Google Search" and "I'm Feeling Lucky" buttons
+---
 
-Language selection links
+## 💡 Technologies Used
 
-Footer
+* **HTML5**: For page structure
+* **CSS3**: For styling and layout
+* **Google Fonts**: Inter & Poppins
+* **Font Awesome**: For icons
 
-Country information (e.g., France)
+---
 
-Links for Advertising, Business, Privacy, Terms, and Settings
+## 🔧 How to Use
 
-Responsive layout using media queries
+1. Clone or download the repository
+2. Ensure the files `index.html` and `styles.css` are in the same directory
+3. Open `index.html` in any modern web browser
 
-💡 Technologies Used
+---
 
-HTML5: For page structure
+## 📱 Responsive Design
 
-CSS3: For styling and layout
+* The layout adjusts for screen sizes using a media query at `640px`
+* Extra navigation items appear on wider screens
 
-Google Fonts: Inter & Poppins
+---
 
-Font Awesome: For icons
+## 📸 Note
 
-🔧 How to Use
+* Profile image (`/public/profile-picture.jpg`) should be replaced with your own local image or hosted link
+* The search input has no functionality—it’s for visual representation only
 
-Clone or download the repository
+---
 
-Ensure the files index.html and styles.css are in the same directory
+## 🚫 Disclaimer
 
-Open index.html in any modern web browser
+This is a static and unofficial clone for practice only. It is **not affiliated with or endorsed by Google**.
 
-📱 Responsive Design
+---
 
-The layout adjusts for screen sizes using a media query at 640px
+## ✅ Author
 
-Extra navigation items appear on wider screens
+Feel free to modify and build upon this for your own learning!
 
-📸 Note
-
-Profile image (/public/profile-picture.jpg) should be replaced with your own local image or hosted link
-
-The search input has no functionality—it’s for visual representation only
