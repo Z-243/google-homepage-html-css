@@ -73,5 +73,5 @@ This is a static and unofficial clone for practice only. It is **not affiliated 
 
 ## 🚀 Live Demo
 
-👉 [Google Homepage Clone](https://shely-portfolio-demo.netlify.app/)
+👉 [Google Homepage Clone](https://google-search2-home-page.netlify.app/)
 
