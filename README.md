@@ -71,7 +71,7 @@ This is a static and unofficial clone for practice only. It is **not affiliated 
 
 ---
 
-## ✅ Author
+## 🚀 Live Demo
 
-Feel free to modify and build upon this for your own learning!
+👉 [Google Homepage Clone](https://shely-portfolio-demo.netlify.app/)
 
